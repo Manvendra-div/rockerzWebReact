@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rockerzWebReact/static/css/main.5945e955.css",
+    "main.js": "/rockerzWebReact/static/js/main.9fe34228.js",
+    "index.html": "/rockerzWebReact/index.html",
+    "main.5945e955.css.map": "/rockerzWebReact/static/css/main.5945e955.css.map",
+    "main.9fe34228.js.map": "/rockerzWebReact/static/js/main.9fe34228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5945e955.css",
+    "static/js/main.9fe34228.js"
+  ]
+}
